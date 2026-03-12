@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="transacoes.client/transacoes.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Transacoes.Server.BancoDeDados/Transacoes.Server.BancoDeDados.csproj" />
+  <Project Path="Transacoes.Server/Transacoes.Server.csproj" />
+</Solution>
